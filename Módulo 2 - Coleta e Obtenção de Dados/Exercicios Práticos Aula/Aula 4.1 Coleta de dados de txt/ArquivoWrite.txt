@@ -1,0 +1,5 @@
+Isso é o que está escrito no arquivo txt antes de executar o write
+
+Esse texto será apagado e será reescrito pelo o que foi definido no método
+
+ADEUS MUNDO CRUEL
